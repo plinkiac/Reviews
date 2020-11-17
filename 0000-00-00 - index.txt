@@ -1,14 +1,29 @@
+yyyy-mm-dd | x → transcript | title
+
 2000-01-31 | bit.ly/2IKSCsg | Monkey Man Gets His review by Screaming Stoner Video
 2000-02-25 | bit.ly/3f7pl7j | Blunt Justice by Andy
 2000-02-25 | bit.ly/3nxxXqY | Blunt Justice by Erik Woods
 2001-04-15 | bit.ly/3f4Goad | Review - The Trouble with Her Uterus
 2001-04-20 | bit.ly/38VC3VT | Transients - Something With Which I’d Love to See You Help Me
-
-
-
-
-
-
-
-
-
+2001-04-27 | bit.ly/3lFU5yQ | My Long Walk Home
+2001-07-20 | bit.ly/2IBlQug | G.G. Allen Stole My Vomit
+2002-01-07 | bit.ly/32VfFrP | I'M THE DIRECTOR! JUST SAY MY WORDS!
+2002-01-07 | bit.ly/3kEerHi | Review - The Long Walk Home
+2002-01-24 | bit.ly/3lFUkde | Once Upon a Waste of Time - an Excaliburger Review
+2002-01-24 | bit.ly/2HfVWLS | The Long Walk Home Exposed
+2002-01-29 | bit.ly/2Uys3ZZ | Here's to You! by Wally Fong
+2002-02-05 | bit.ly/3pEfScn | Stoklasa on Deathlist - A Review
+2002-02-28 | bit.ly/38Q2Xyj | The Stupidest Thing I've Ever Seen, Part 2
+2004-07-25 | bit.ly/32T11Bs | Oranges 3 - Oranges in Space review
+2004-07-27 | bit.ly/2IKRkhp | Blunt Justice
+2004-09-11 | bit.ly/2UCzeAo | Clowns and Suicide by Jay Bauman
+2004-09-19 | bit.ly/2INGFmb | Indulgence by Jay Bauman
+2010-02-28 | bit.ly/35GJ3Ux | Coming Eventually - Feeding Frenzy
+2010-08-21 | bit.ly/2IKdJeO | TIRED FEET SYNDROME
+2010-10-22 | bit.ly/3f6zqRY | Feeding Frenzy Review
+2010-10-31 | bit.ly/38RkupV | Movie Review - Feeding Frenzy (2010)
+2010-11-17 | bit.ly/3nBDFYX | Feeding Frenzy - 2010 - Jay Bauman and Mike Stoklasa
+2013-04-27 | bit.ly/2HazMdT | IHC DVD Review - RedLetterMedia’s Gorilla Interrupted
+2016-02-02 | bit.ly/32QofIo | Finding the Good-Bad - RedLetterMedia's Space Cop
+2016-02-09 | bit.ly/3pymfOJ | Movie Review - Space Cop (the new movie by RedLetterMedia)
+2016-04-12 | bit.ly/2UxLxhu | Film Review - Space Cop
