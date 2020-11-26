@@ -27,6 +27,8 @@ mm/dd/yyyy | hh:mm:ss | x → transcript | title
 10/30/2010 | 00:00:00 | bit.ly/3o0xC05 | Halloween Treat: Feeding Frenzy - Review
 10/31/2010 | 00:00:00 | bit.ly/3fFrk2R | Movie Review: Feeding Frenzy (2010)
 11/17/2010 | 00:00:00 | bit.ly/3nBDFYX | Feeding Frenzy - 2010 - Jay Bauman and Mike Stoklasa
+12/27/2010 | 00:00:00 | bit.ly/33iuBQO | Feeding Frenzy (2010) Movie Review
+01/11/2008 | 00:00:00 | bit.ly/33gcQ4L | Feeding Frenzy
 04/27/2013 | 00:00:00 | bit.ly/2HazMdT | IHC DVD Review - RedLetterMedia’s Gorilla Interrupted
 02/02/2016 | 00:00:00 | bit.ly/32QofIo | Finding the Good-Bad - RedLetterMedia's Space Cop
 02/09/2016 | 00:00:00 | bit.ly/3pymfOJ | Movie Review - Space Cop (the new movie by RedLetterMedia)
